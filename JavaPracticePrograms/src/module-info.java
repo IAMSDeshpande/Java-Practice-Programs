@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author hp
+ * @author Sachin Deshpande
  *
  */
 module JavaPracticePrograms {
